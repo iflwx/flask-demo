@@ -1,6 +1,6 @@
 # flask-demo
 
-## Step 0:
+## Step 0
 Enable workflow for project.
 
 ## Step 1:
